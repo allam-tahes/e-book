@@ -1,0 +1,23 @@
+body {
+	text-align: center;
+}
+
+img {
+	width: 100%;
+	height: 100%;
+}
+
+a:link, a:visited {
+	background-color: green;
+	border: 1px black solid;
+	color: white;
+	padding: 15px 25px;
+	text-align: center;
+	text-decoration: none; /*Menghilangkan garis bawah pada tulisan*/
+	display: block
+}
+
+.tbKembali {
+	background-color: blue;
+	color-interpolation: white;
+}
